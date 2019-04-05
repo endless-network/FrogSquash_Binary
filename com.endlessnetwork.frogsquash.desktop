@@ -2,7 +2,7 @@
 Name=Frog Squash
 Comment=Do you have what it takes to cross these treacherous roads? You must dodge arrows, saws, and fire balls and not get squashed! Choose from eight different animals to cross these perilous roads. The key is survival to amass lots of loot and once you master the roads, hack your animal's AI and go farther than ever before!
 Exec=com.endlessnetwork.frogsquash.sh
-Icon=com.endlessnetwork.FrogSquash
+Icon=com.endlessnetwork.frogSquash
 Terminal=false
 Type=Application
 Categories=Games;X-LearnToCode;
