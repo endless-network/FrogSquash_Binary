@@ -5,4 +5,4 @@ Exec=com.endlessnetwork.frogsquash.sh
 Icon=com.endlessnetwork.frogsquash
 Terminal=false
 Type=Application
-Categories=Games;X-LearnToCode;
+Categories=Game;X-LearnToCode;
