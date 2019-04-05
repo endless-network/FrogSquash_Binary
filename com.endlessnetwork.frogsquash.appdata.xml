@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.frogsquash</id>
+  <name>Frog Squash</name>
+  <project_license>LicenseRef-proprietary</project_license>
+  <developer_name>Endless Network</developer_name>
+  <summary>An addictive crossy roads game with a twist</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <url type="homepage">www.thethirdterminal.com</url>
+  <description>
+    <p>Do you have what it takes to cross these treacherous roads? You must dodge arrows, saws, and fire balls and not get squashed! Choose from eight different animals to cross these perilous roads. The key is survival to amass lots of loot and once you master the roads, hack your animal's AI and go farther than ever before!</p>
+  </description>
+  <releases>
+        <release version="1.0" date="2019-04-04"/>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss1.jpg</image>
+    <caption>Beat your score.</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss2.jpg</image>
+      <caption>Program your frog.</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss3.jpg</image>
+      <caption>Watch your step.</caption>
+    </screenshot>
+    <screenshot>
+        <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss4.jpg</image>
+        <caption>Choose from multiple animals.</caption>
+    </screenshot>
+  </screenshots>
+    <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">moderate</content_attribute>
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+  </content_rating>
+  <update_contact>nan_at_endlessnetwork.com</update_contact>
+</component>
