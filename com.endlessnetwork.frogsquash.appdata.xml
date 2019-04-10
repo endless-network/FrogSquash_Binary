@@ -3,7 +3,7 @@
   <id>com.endlessnetwork.frogsquash</id>
   <name>Frog Squash</name>
   <project_license>LicenseRef-proprietary</project_license>
-  <developer_name>Endless Network</developer_name>
+  <developer_name>Endless Studios</developer_name>
   <summary>An addictive crossy roads game with a twist</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <url type="homepage">http://www.thethirdterminal.com</url>
@@ -20,19 +20,19 @@
   </releases>
   <screenshots>
     <screenshot type="default">
-      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss1.jpg</image>
+      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/F4.jpg</image>
     <caption>Beat your score.</caption>
     </screenshot>
     <screenshot>
-      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss2.jpg</image>
+      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/F3.jpg</image>
       <caption>Program your frog.</caption>
     </screenshot>
     <screenshot>
-      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss3.jpg</image>
+      <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/F2.jpg</image>
       <caption>Watch your step.</caption>
     </screenshot>
     <screenshot>
-        <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/ss4.jpg</image>
+        <image>https://github.com/endless-network/FrogSquash_Binary/raw/master/F1.jpg</image>
         <caption>Choose from multiple animals.</caption>
     </screenshot>
   </screenshots>
