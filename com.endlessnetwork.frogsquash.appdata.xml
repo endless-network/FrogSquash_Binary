@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.endlessnetwork.frogsquash</id>
+  <developer id="com.endlessnetwork">
+    <name>Endless Studios</name>
+  </developer>
   <name>Frog Squash</name>
   <project_license>LicenseRef-proprietary</project_license>
   <developer_name>Endless Studios</developer_name>
   <summary>An addictive crossy roads game with a twist</summary>
   <metadata_license>CC0-1.0</metadata_license>
-  <url type="homepage">http://www.thethirdterminal.com</url>
+  <url type="homepage">https://terminaltwo.com/</url>
   <categories>
-    <category>LearnToCode</category>
     <category>Game</category>
     <category>Education</category>
+    <category>ComputerScience</category>
   </categories>
   <launchable type="desktop-id">com.endlessnetwork.frogsquash.desktop</launchable>
   <description>
     <p>Do you have what it takes to cross these treacherous roads? You must dodge arrows, saws, and fire balls and not get squashed! Choose from eight different animals to cross these perilous roads. The key is survival to amass lots of loot and once you master the roads, hack your animal's AI and go farther than ever before!</p>
   </description>
   <releases>
-        <release version="1.2" date="2019-06-3"/>
+    <release version="1.2" date="2019-06-03"/>
   </releases>
   <screenshots>
     <screenshot type="default">
@@ -37,9 +40,9 @@
         <caption>Choose from multiple animals</caption>
     </screenshot>
   </screenshots>
-    <content_rating type="oars-1.1">
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-info">mild</content_attribute>
     <content_attribute id="violence-cartoon">moderate</content_attribute>
     <content_attribute id="violence-fantasy">moderate</content_attribute>
   </content_rating>
-  <update_contact>nan_at_endlessnetwork.com</update_contact>
 </component>
