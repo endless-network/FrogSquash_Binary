@@ -5,7 +5,7 @@
     <name>Endless Studios</name>
   </developer>
   <name>Frog Squash</name>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://github.com/endless-network/FrogSquash_Binary/raw/refs/heads/master/LICENSE</project_license>
   <developer_name>Endless Studios</developer_name>
   <summary>An addictive crossy roads game with a twist</summary>
   <metadata_license>CC0-1.0</metadata_license>
